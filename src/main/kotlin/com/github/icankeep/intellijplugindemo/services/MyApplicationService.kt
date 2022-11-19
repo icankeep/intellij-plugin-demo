@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.icankeep.intellijplugindemo.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.icankeep.intellijplugindemo.MyBundle
 
 class MyApplicationService {
 
